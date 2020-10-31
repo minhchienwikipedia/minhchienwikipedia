@@ -21,7 +21,7 @@
 
 Enthusiastic mobile developer with 3+ years of experience. Ability to self-study new technologies, eager to learn something new. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. I have experience working in the product company, able to withstand stress with work hard.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/minhchienwikipedia/minhchienwikipedia/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
