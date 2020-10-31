@@ -27,7 +27,7 @@ Enthusiastic mobile developer with 3+ years of experience. Ability to self-study
 
 - 🏠 I’m currently living at HCM City, Vietnam 🇻🇳.
 - 👨‍💻 I’m currently working as a Mobile Developer.
-- 🔭 I’m currently working on [@MoMo](https://momo.vn/).
+- 🔭 I’m currently working on [MoMo](https://momo.vn/).
 - 🌱 I’m currently learning English 🤦‍♂.
 - ☕️ I’m coffeer.
 - 📝[My Resume](https://minhchienwikipedia.github.io/)
