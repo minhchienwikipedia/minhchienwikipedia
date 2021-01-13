@@ -3,10 +3,7 @@
   <img align="left" alt="MinhChien's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/minhchienwikipedia/">
-  <img align="left" alt="MinhChien's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/cu.lac/">
-  <img align="left" alt="MinhChien's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="MinhChien's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=minhchienwikipedia) ![](https://komarev.com/ghpvc/?username=minhchienwikipedia&color=brightgreen)
@@ -34,10 +31,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=minhchienwikipedia&show_icons=true&theme=gotham" alt="minhchienwikipedia" />
-
-</details>
