@@ -13,9 +13,7 @@
 
 <br />
 
-Enthusiastic mobile developer with 3+ years of experience. Ability to self-study new technologies, eager to learn something new. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. I have experience working in the product company, able to withstand stress with work hard.
-
-  <img align="right" alt="GIF" src="https://github.com/minhchienwikipedia/minhchienwikipedia/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=minhchienwikipedia&show_icons=true">
   
 **Talking about Personal Stuffs:**
 
@@ -43,9 +41,3 @@ Enthusiastic mobile developer with 3+ years of experience. Ability to self-study
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=minhchienwikipedia&show_icons=true&theme=gotham" alt="minhchienwikipedia" />
 
 </details>
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-
-
-
