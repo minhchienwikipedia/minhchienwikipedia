@@ -14,9 +14,8 @@
   
 **Talking about Personal Stuffs:**
 
-- 🏠 I’m currently living at HCM City, Vietnam 🇻🇳.
+- 🏠 I’m currently living at HN City, Vietnam 🇻🇳.
 - 👨‍💻 I’m currently working as a Mobile Developer.
-- 🔭 I’m currently working on [MoMo](https://momo.vn/).
 - 🌱 I’m currently learning English 🤦‍♂.
 - ☕️ I’m coffeer.
 - 📝[My Resume](https://minhchienwikipedia.github.io/)
