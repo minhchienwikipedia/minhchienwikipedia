@@ -9,7 +9,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 🏠 I’m from Vietnam 🇻🇳.<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+- 🏠 I’m from Vietnam 🇻🇳.
 - 👨‍💻 I’m currently working as a Mobile Developer.
 - 🌱 I’m currently learning English 🤦‍♂.
 - 📝[My Resume](https://minhchienwikipedia.github.io/)
