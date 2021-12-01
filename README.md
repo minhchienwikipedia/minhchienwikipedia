@@ -12,4 +12,4 @@
 - 🏠 I’m from Vietnam 🇻🇳.
 - 👨‍💻 I’m currently working as a Mobile Developer.
 - 🌱 I’m currently learning English 🤦‍♂.
-- 📝[My Resume](https://minhchienwikipedia.github.io/)
+- 📝 [My Resume](https://minhchienwikipedia.github.io/)
