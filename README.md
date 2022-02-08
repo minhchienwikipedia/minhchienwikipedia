@@ -6,7 +6,16 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=minhchienwikipedia) ![](https://komarev.com/ghpvc/?username=minhchienwikipedia&color=brightgreen)
 
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=minhchienwikipedia&show_icons=true"> -->
-  
+
+**My personal projects**
+
+> I'm doing everything for my apps, get the idea, wireframe, coding frontend & backend.
+
+|<img src="https://language-king.com/img/icons/logo192.png" height="40"/>|<a href="https://language-king.com/">Language King</a>|
+|---|---|
+|<img src="https://beenalone.com/img/icons/logo192.png" height="40"/>|<a href="https://beenalone.com/"><b>Been Alone</b></a>|
+
+
 **Talking about Personal Stuffs:**
 
 - 🏠 I’m from Vietnam 🇻🇳.
