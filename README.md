@@ -3,8 +3,6 @@
 </p>
 <h1 align="center">Hi, I'm Chien (Tony)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=minhchienwikipedia) ![](https://komarev.com/ghpvc/?username=minhchienwikipedia&color=brightgreen)
-
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=minhchienwikipedia&show_icons=true"> -->
 
 **My personal projects**
@@ -22,3 +20,5 @@
 - 👨‍💻 I’m currently working as a Mobile Developer.
 - 🌱 I’m currently learning English 🤦‍♂.
 - 📝 [My Resume](https://minhchienwikipedia.github.io/)
+
+![](https://visitor-badge.glitch.me/badge?page_id=minhchienwikipedia) ![](https://komarev.com/ghpvc/?username=minhchienwikipedia&color=brightgreen)
