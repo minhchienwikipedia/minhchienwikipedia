@@ -17,8 +17,8 @@
 **Talking about Personal Stuffs:**
 
 - 🏠 I’m from Vietnam 🇻🇳.
-- 👨‍💻 I’m currently working as a Mobile Developer.
-- 🌱 I’m currently learning English 🤦‍♂.
+- 👨‍💻 I’m currently working as a Senior Mobile Developer.
+- 🌱 I’m focusing to become Full-stack Developer 🤦‍♂.
 - 📝 [My Resume](https://minhchienwikipedia.github.io/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=minhchienwikipedia) ![](https://komarev.com/ghpvc/?username=minhchienwikipedia&color=brightgreen)
