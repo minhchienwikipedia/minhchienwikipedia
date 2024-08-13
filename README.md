@@ -21,4 +21,4 @@
 - 👨‍💻 I’m currently working as a Product Owner, Full-stack Developer.
 - 📝 [My Resume](https://minhchienwikipedia.github.io/)
 
-![](https://visitor-badge.glitch.me/badge?page_id=minhchienwikipedia) ![](https://komarev.com/ghpvc/?username=minhchienwikipedia&color=brightgreen)
+[![committers.top badge](https://user-badge.committers.top/vietnam_private/minhchienwikipedia.svg)](https://user-badge.committers.top/vietnam_private/minhchienwikipedia) ![](https://visitor-badge.glitch.me/badge?page_id=minhchienwikipedia) ![](https://komarev.com/ghpvc/?username=minhchienwikipedia&color=brightgreen)
