@@ -9,10 +9,10 @@
 
 > I'm doing everything for my apps, get the idea, wireframe, coding frontend & backend.
 
-|<img src="https://language-king.com/img/icons/logo192.png" height="40"/>|<a href="https://language-king.com/">Language King</a>|
+|<img src="https://locknlearn.app/logo.png" height="40"/>|<a href="https://locknlearn.app/"><b>LocknLearn</b></a>|
 |---|---|
 |<img src="https://beenalone.com/img/icons/logo192.png" height="40"/>|<a href="https://beenalone.com/"><b>Been Alone</b></a>|
-|<img src="https://moneymiser.app/img/icons/logo192.png" height="40"/>|<a href="https://moneymiser.app"><b>Money Miser</b></a>|
+|<img src="https://language-king.com/img/icons/logo192.png" height="40"/>|<a href="https://language-king.com/"><b>Language King</b></a>|
 
 
 **Talking about Personal Stuffs:**
